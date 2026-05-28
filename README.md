@@ -1,4 +1,6 @@
-# 🍽️ Restaurant Management System - Pure Java OOP
+# 🍽️ Restaurant Management System - Pure Java
+## (Focused on OOP Concepts)
+
 
 A console-based **Restaurant Management System** built using **pure Java** to demonstrate strong **Object-Oriented Programming (OOP)** concepts.
 
